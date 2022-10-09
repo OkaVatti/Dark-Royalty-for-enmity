@@ -1,7 +1,7 @@
 {
-  "name": "Zelk",
-  "version": "1.1.1",
-  "description": "Zelk for Enmity, now with dark channel names!",
+  "name": "Dark Royalty",
+  "version": "1.0.0",
+  "description": "Dark Royalty for Enmity, now with dark channel names!",
   "color": "#6D8692",
   "authors": [
     {
@@ -9,7 +9,7 @@
       "id": "312319419240022017"
     },
     {
-      "name": "schnensch",
+      "name": "OkaVatti",
       "id": "000"
     }
   ],

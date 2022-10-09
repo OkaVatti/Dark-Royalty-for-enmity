@@ -1,16 +1,12 @@
 {
   "name": "Dark Royalty",
   "version": "1.0.0",
-  "description": "Dark Royalty for Enmity, now with dark channel names!",
+  "description": "Dark Royalty for Enmity",
   "color": "#6D8692",
   "authors": [
     {
-      "name": "Nobody",
-      "id": "312319419240022017"
-    },
-    {
-      "name": "OkaVatti",
-      "id": "000"
+      "name": "vir",
+      "id": "0643"
     }
   ],
   "theme_color_map": {
